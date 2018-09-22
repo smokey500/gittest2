@@ -1,1 +1,2 @@
-This is my first projec
+This is my first project
+Add information to this file.
